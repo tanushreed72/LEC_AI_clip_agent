@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model and transcription cache
+transcript_cache/
+.cache/
+
+# Generated video clips
+clips/
+
+# Input videos
+videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Temporary files
+*.log
+*.tmp
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
