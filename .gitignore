@@ -8,21 +8,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Model and transcription cache
-transcript_cache/
-.cache/
-
-# Generated video clips
-clips/
-
-# Input videos
-videos/
-*.mp4
-*.mov
-*.avi
-*.mkv
-*.webm
-
 # Temporary files
 *.log
 *.tmp
