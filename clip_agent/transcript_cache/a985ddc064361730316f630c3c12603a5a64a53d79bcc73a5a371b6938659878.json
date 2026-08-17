@@ -1,0 +1,3359 @@
+{
+  "video_hash": "a985ddc064361730316f630c3c12603a5a64a53d79bcc73a5a371b6938659878",
+  "video_path": "videos\\demo_clip.mp4",
+  "language": "en",
+  "words": [
+    {
+      "word": "Welcome",
+      "start": 1.0600000000000023,
+      "end": 1.5
+    },
+    {
+      "word": "to",
+      "start": 1.5,
+      "end": 1.7
+    },
+    {
+      "word": "the",
+      "start": 1.7,
+      "end": 1.9
+    },
+    {
+      "word": "video",
+      "start": 1.9,
+      "end": 2.34
+    },
+    {
+      "word": "demonstration",
+      "start": 2.34,
+      "end": 2.64
+    },
+    {
+      "word": "of",
+      "start": 2.64,
+      "end": 2.98
+    },
+    {
+      "word": "the",
+      "start": 2.98,
+      "end": 3.08
+    },
+    {
+      "word": "database",
+      "start": 3.08,
+      "end": 3.32
+    },
+    {
+      "word": "systems",
+      "start": 3.32,
+      "end": 3.64
+    },
+    {
+      "word": "coursework",
+      "start": 3.64,
+      "end": 4.08
+    },
+    {
+      "word": "from",
+      "start": 4.08,
+      "end": 4.24
+    },
+    {
+      "word": "group",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "word": "number",
+      "start": 4.4,
+      "end": 4.62
+    },
+    {
+      "word": "3.",
+      "start": 4.62,
+      "end": 4.9
+    },
+    {
+      "word": "In",
+      "start": 5.24,
+      "end": 5.58
+    },
+    {
+      "word": "deliverable",
+      "start": 5.58,
+      "end": 5.92
+    },
+    {
+      "word": "1",
+      "start": 5.92,
+      "end": 6.08
+    },
+    {
+      "word": ".1,",
+      "start": 6.08,
+      "end": 6.44
+    },
+    {
+      "word": "we",
+      "start": 6.58,
+      "end": 6.64
+    },
+    {
+      "word": "normalize",
+      "start": 6.64,
+      "end": 7.02
+    },
+    {
+      "word": "the",
+      "start": 7.02,
+      "end": 7.2
+    },
+    {
+      "word": "customer",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "word": "city",
+      "start": 7.44,
+      "end": 7.7
+    },
+    {
+      "word": "product",
+      "start": 7.7,
+      "end": 8.02
+    },
+    {
+      "word": "and",
+      "start": 8.02,
+      "end": 8.2
+    },
+    {
+      "word": "order",
+      "start": 8.2,
+      "end": 8.38
+    },
+    {
+      "word": "item",
+      "start": 8.38,
+      "end": 8.58
+    },
+    {
+      "word": "tables",
+      "start": 8.58,
+      "end": 8.9
+    },
+    {
+      "word": "to",
+      "start": 8.9,
+      "end": 9.08
+    },
+    {
+      "word": "3",
+      "start": 9.08,
+      "end": 9.3
+    },
+    {
+      "word": "and",
+      "start": 9.3,
+      "end": 9.42
+    },
+    {
+      "word": "F.",
+      "start": 9.42,
+      "end": 9.56
+    },
+    {
+      "word": "Originally,",
+      "start": 10.08,
+      "end": 10.34
+    },
+    {
+      "word": "the",
+      "start": 10.5,
+      "end": 10.56
+    },
+    {
+      "word": "primary",
+      "start": 10.56,
+      "end": 10.78
+    },
+    {
+      "word": "key",
+      "start": 10.78,
+      "end": 11.0
+    },
+    {
+      "word": "of",
+      "start": 11.0,
+      "end": 11.1
+    },
+    {
+      "word": "the",
+      "start": 11.1,
+      "end": 11.2
+    },
+    {
+      "word": "customer",
+      "start": 11.2,
+      "end": 11.42
+    },
+    {
+      "word": "city",
+      "start": 11.42,
+      "end": 11.64
+    },
+    {
+      "word": "table",
+      "start": 11.64,
+      "end": 11.9
+    },
+    {
+      "word": "was",
+      "start": 11.9,
+      "end": 12.14
+    },
+    {
+      "word": "ID.",
+      "start": 12.14,
+      "end": 12.36
+    },
+    {
+      "word": "But",
+      "start": 12.96,
+      "end": 13.14
+    },
+    {
+      "word": "while",
+      "start": 13.14,
+      "end": 13.3
+    },
+    {
+      "word": "unlicing",
+      "start": 13.3,
+      "end": 13.62
+    },
+    {
+      "word": "the",
+      "start": 13.62,
+      "end": 13.76
+    },
+    {
+      "word": "order",
+      "start": 13.76,
+      "end": 13.9
+    },
+    {
+      "word": "item",
+      "start": 13.9,
+      "end": 14.08
+    },
+    {
+      "word": "table,",
+      "start": 14.08,
+      "end": 14.38
+    },
+    {
+      "word": "there",
+      "start": 14.46,
+      "end": 14.6
+    },
+    {
+      "word": "was",
+      "start": 14.6,
+      "end": 14.7
+    },
+    {
+      "word": "no",
+      "start": 14.7,
+      "end": 14.86
+    },
+    {
+      "word": "relationship",
+      "start": 14.86,
+      "end": 15.24
+    },
+    {
+      "word": "defined.",
+      "start": 15.24,
+      "end": 15.74
+    },
+    {
+      "word": "But",
+      "start": 16.08,
+      "end": 16.26
+    },
+    {
+      "word": "we",
+      "start": 16.26,
+      "end": 16.38
+    },
+    {
+      "word": "found",
+      "start": 16.38,
+      "end": 16.56
+    },
+    {
+      "word": "that",
+      "start": 16.56,
+      "end": 16.7
+    },
+    {
+      "word": "ID",
+      "start": 16.7,
+      "end": 16.9
+    },
+    {
+      "word": "in",
+      "start": 16.9,
+      "end": 16.98
+    },
+    {
+      "word": "customer",
+      "start": 16.98,
+      "end": 17.2
+    },
+    {
+      "word": "city",
+      "start": 17.2,
+      "end": 17.5
+    },
+    {
+      "word": "and",
+      "start": 17.5,
+      "end": 17.78
+    },
+    {
+      "word": "the",
+      "start": 17.78,
+      "end": 17.92
+    },
+    {
+      "word": "customer",
+      "start": 17.92,
+      "end": 18.2
+    },
+    {
+      "word": "city",
+      "start": 18.2,
+      "end": 18.42
+    },
+    {
+      "word": "ID",
+      "start": 18.42,
+      "end": 18.62
+    },
+    {
+      "word": "in",
+      "start": 18.62,
+      "end": 18.72
+    },
+    {
+      "word": "the",
+      "start": 18.72,
+      "end": 18.8
+    },
+    {
+      "word": "order",
+      "start": 18.8,
+      "end": 18.96
+    },
+    {
+      "word": "item",
+      "start": 18.96,
+      "end": 19.12
+    },
+    {
+      "word": "table",
+      "start": 19.12,
+      "end": 19.38
+    },
+    {
+      "word": "matched.",
+      "start": 19.38,
+      "end": 19.7
+    },
+    {
+      "word": "So",
+      "start": 20.14,
+      "end": 20.3
+    },
+    {
+      "word": "the",
+      "start": 20.3,
+      "end": 20.4
+    },
+    {
+      "word": "column",
+      "start": 20.4,
+      "end": 20.6
+    },
+    {
+      "word": "was",
+      "start": 20.6,
+      "end": 20.8
+    },
+    {
+      "word": "renamed",
+      "start": 20.8,
+      "end": 21.0
+    },
+    {
+      "word": "to",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "word": "customer",
+      "start": 21.24,
+      "end": 21.44
+    },
+    {
+      "word": "city",
+      "start": 21.44,
+      "end": 21.7
+    },
+    {
+      "word": "ID",
+      "start": 21.7,
+      "end": 21.9
+    },
+    {
+      "word": "to",
+      "start": 21.9,
+      "end": 22.1
+    },
+    {
+      "word": "clearly",
+      "start": 22.1,
+      "end": 22.44
+    },
+    {
+      "word": "establish",
+      "start": 22.44,
+      "end": 22.68
+    },
+    {
+      "word": "the",
+      "start": 22.68,
+      "end": 22.9
+    },
+    {
+      "word": "relationship.",
+      "start": 22.9,
+      "end": 23.3
+    },
+    {
+      "word": "In",
+      "start": 23.720000000000002,
+      "end": 24.12
+    },
+    {
+      "word": "the",
+      "start": 24.12,
+      "end": 24.18
+    },
+    {
+      "word": "customer",
+      "start": 24.18,
+      "end": 24.4
+    },
+    {
+      "word": "city",
+      "start": 24.4,
+      "end": 24.64
+    },
+    {
+      "word": "table,",
+      "start": 24.64,
+      "end": 24.96
+    },
+    {
+      "word": "the",
+      "start": 25.12,
+      "end": 25.24
+    },
+    {
+      "word": "transitive",
+      "start": 25.24,
+      "end": 25.6
+    },
+    {
+      "word": "dependency",
+      "start": 25.6,
+      "end": 25.94
+    },
+    {
+      "word": "existed",
+      "start": 25.94,
+      "end": 26.28
+    },
+    {
+      "word": "between",
+      "start": 26.28,
+      "end": 26.64
+    },
+    {
+      "word": "the",
+      "start": 26.64,
+      "end": 27.42
+    },
+    {
+      "word": "county,",
+      "start": 27.42,
+      "end": 28.36
+    },
+    {
+      "word": "region,",
+      "start": 28.54,
+      "end": 28.76
+    },
+    {
+      "word": "country",
+      "start": 28.94,
+      "end": 29.16
+    },
+    {
+      "word": "and",
+      "start": 29.16,
+      "end": 29.32
+    },
+    {
+      "word": "the",
+      "start": 29.32,
+      "end": 29.42
+    },
+    {
+      "word": "city.",
+      "start": 29.42,
+      "end": 29.6
+    },
+    {
+      "word": "So",
+      "start": 30.1,
+      "end": 30.3
+    },
+    {
+      "word": "this",
+      "start": 30.3,
+      "end": 30.46
+    },
+    {
+      "word": "was",
+      "start": 30.46,
+      "end": 30.62
+    },
+    {
+      "word": "resolved",
+      "start": 30.62,
+      "end": 30.92
+    },
+    {
+      "word": "by",
+      "start": 30.92,
+      "end": 31.08
+    },
+    {
+      "word": "splitting",
+      "start": 31.08,
+      "end": 31.26
+    },
+    {
+      "word": "the",
+      "start": 31.26,
+      "end": 31.44
+    },
+    {
+      "word": "table",
+      "start": 31.44,
+      "end": 31.66
+    },
+    {
+      "word": "into",
+      "start": 31.66,
+      "end": 31.88
+    },
+    {
+      "word": "customer",
+      "start": 31.88,
+      "end": 32.42
+    },
+    {
+      "word": "3",
+      "start": 32.42,
+      "end": 32.68
+    },
+    {
+      "word": "and",
+      "start": 32.68,
+      "end": 32.78
+    },
+    {
+      "word": "F",
+      "start": 32.78,
+      "end": 32.92
+    },
+    {
+      "word": "on",
+      "start": 32.92,
+      "end": 33.02
+    },
+    {
+      "word": "city",
+      "start": 33.02,
+      "end": 33.16
+    },
+    {
+      "word": "3",
+      "start": 33.16,
+      "end": 33.38
+    },
+    {
+      "word": "and",
+      "start": 33.38,
+      "end": 33.52
+    },
+    {
+      "word": "F.",
+      "start": 33.52,
+      "end": 33.62
+    },
+    {
+      "word": "With",
+      "start": 34.24,
+      "end": 34.4
+    },
+    {
+      "word": "the",
+      "start": 34.4,
+      "end": 34.54
+    },
+    {
+      "word": "city",
+      "start": 34.54,
+      "end": 34.66
+    },
+    {
+      "word": "ID",
+      "start": 34.66,
+      "end": 34.88
+    },
+    {
+      "word": "acting",
+      "start": 34.88,
+      "end": 35.14
+    },
+    {
+      "word": "as",
+      "start": 35.14,
+      "end": 35.3
+    },
+    {
+      "word": "a",
+      "start": 35.3,
+      "end": 35.36
+    },
+    {
+      "word": "surrogate",
+      "start": 35.36,
+      "end": 35.68
+    },
+    {
+      "word": "key",
+      "start": 35.68,
+      "end": 35.9
+    },
+    {
+      "word": "and",
+      "start": 35.9,
+      "end": 36.4
+    },
+    {
+      "word": "later",
+      "start": 36.4,
+      "end": 36.58
+    },
+    {
+      "word": "it",
+      "start": 36.58,
+      "end": 36.72
+    },
+    {
+      "word": "was",
+      "start": 36.72,
+      "end": 36.86
+    },
+    {
+      "word": "referenced",
+      "start": 36.86,
+      "end": 37.12
+    },
+    {
+      "word": "by",
+      "start": 37.12,
+      "end": 37.4
+    },
+    {
+      "word": "the",
+      "start": 37.4,
+      "end": 37.54
+    },
+    {
+      "word": "foreign",
+      "start": 37.54,
+      "end": 37.72
+    },
+    {
+      "word": "key",
+      "start": 37.72,
+      "end": 37.96
+    },
+    {
+      "word": "between",
+      "start": 37.96,
+      "end": 38.3
+    },
+    {
+      "word": "the",
+      "start": 38.3,
+      "end": 38.5
+    },
+    {
+      "word": "customer",
+      "start": 38.5,
+      "end": 38.94
+    },
+    {
+      "word": "3",
+      "start": 38.94,
+      "end": 39.2
+    },
+    {
+      "word": "and",
+      "start": 39.2,
+      "end": 39.28
+    },
+    {
+      "word": "F",
+      "start": 39.28,
+      "end": 39.4
+    },
+    {
+      "word": "on",
+      "start": 39.4,
+      "end": 39.5
+    },
+    {
+      "word": "city",
+      "start": 39.5,
+      "end": 39.6
+    },
+    {
+      "word": "3",
+      "start": 39.6,
+      "end": 39.78
+    },
+    {
+      "word": "and",
+      "start": 39.78,
+      "end": 39.94
+    },
+    {
+      "word": "F.",
+      "start": 39.94,
+      "end": 40.06
+    },
+    {
+      "word": "In",
+      "start": 41.34,
+      "end": 41.48
+    },
+    {
+      "word": "the",
+      "start": 41.48,
+      "end": 41.54
+    },
+    {
+      "word": "product",
+      "start": 41.54,
+      "end": 41.74
+    },
+    {
+      "word": "table,",
+      "start": 41.74,
+      "end": 42.1
+    },
+    {
+      "word": "the",
+      "start": 43.04,
+      "end": 43.2
+    },
+    {
+      "word": "composite",
+      "start": 43.2,
+      "end": 43.48
+    },
+    {
+      "word": "key",
+      "start": 43.48,
+      "end": 43.7
+    },
+    {
+      "word": "caused",
+      "start": 43.7,
+      "end": 43.94
+    },
+    {
+      "word": "partial",
+      "start": 43.94,
+      "end": 44.28
+    },
+    {
+      "word": "dependencies.",
+      "start": 44.28,
+      "end": 44.72
+    },
+    {
+      "word": "So",
+      "start": 45.06,
+      "end": 45.12
+    },
+    {
+      "word": "the",
+      "start": 45.12,
+      "end": 45.24
+    },
+    {
+      "word": "table",
+      "start": 45.24,
+      "end": 45.42
+    },
+    {
+      "word": "was",
+      "start": 45.42,
+      "end": 45.62
+    },
+    {
+      "word": "split",
+      "start": 45.62,
+      "end": 45.8
+    },
+    {
+      "word": "into",
+      "start": 45.8,
+      "end": 46.02
+    },
+    {
+      "word": "product",
+      "start": 46.02,
+      "end": 46.34
+    },
+    {
+      "word": "group,",
+      "start": 46.34,
+      "end": 46.58
+    },
+    {
+      "word": "variant",
+      "start": 46.68,
+      "end": 46.82
+    },
+    {
+      "word": "group,",
+      "start": 46.82,
+      "end": 47.02
+    },
+    {
+      "word": "product",
+      "start": 47.02,
+      "end": 47.28
+    },
+    {
+      "word": "3",
+      "start": 47.28,
+      "end": 47.42
+    },
+    {
+      "word": "and",
+      "start": 47.42,
+      "end": 47.52
+    },
+    {
+      "word": "F",
+      "start": 47.52,
+      "end": 47.64
+    },
+    {
+      "word": "on",
+      "start": 47.64,
+      "end": 47.72
+    },
+    {
+      "word": "variant",
+      "start": 47.72,
+      "end": 47.92
+    },
+    {
+      "word": "3",
+      "start": 47.92,
+      "end": 48.12
+    },
+    {
+      "word": "and",
+      "start": 48.12,
+      "end": 48.26
+    },
+    {
+      "word": "F.",
+      "start": 48.26,
+      "end": 48.36
+    },
+    {
+      "word": "Here",
+      "start": 48.36,
+      "end": 49.0
+    },
+    {
+      "word": "the",
+      "start": 49.0,
+      "end": 49.12
+    },
+    {
+      "word": "important",
+      "start": 49.12,
+      "end": 49.54
+    },
+    {
+      "word": "design",
+      "start": 49.54,
+      "end": 49.82
+    },
+    {
+      "word": "aspect",
+      "start": 49.82,
+      "end": 50.54
+    },
+    {
+      "word": "is",
+      "start": 50.54,
+      "end": 50.82
+    },
+    {
+      "word": "product",
+      "start": 50.82,
+      "end": 52.06
+    },
+    {
+      "word": "group",
+      "start": 52.06,
+      "end": 52.28
+    },
+    {
+      "word": "was",
+      "start": 52.28,
+      "end": 52.56
+    },
+    {
+      "word": "not",
+      "start": 52.56,
+      "end": 52.72
+    },
+    {
+      "word": "dependent",
+      "start": 52.72,
+      "end": 52.94
+    },
+    {
+      "word": "on",
+      "start": 52.94,
+      "end": 53.14
+    },
+    {
+      "word": "variant",
+      "start": 53.14,
+      "end": 53.3
+    },
+    {
+      "word": "code",
+      "start": 53.3,
+      "end": 53.56
+    },
+    {
+      "word": "as",
+      "start": 53.56,
+      "end": 53.82
+    },
+    {
+      "word": "it",
+      "start": 53.82,
+      "end": 53.92
+    },
+    {
+      "word": "violates",
+      "start": 53.92,
+      "end": 54.16
+    },
+    {
+      "word": "the",
+      "start": 54.16,
+      "end": 54.32
+    },
+    {
+      "word": "2NF.",
+      "start": 54.32,
+      "end": 54.66
+    },
+    {
+      "word": "So",
+      "start": 54.74,
+      "end": 54.82
+    },
+    {
+      "word": "it",
+      "start": 54.82,
+      "end": 54.9
+    },
+    {
+      "word": "must",
+      "start": 54.9,
+      "end": 55.0
+    },
+    {
+      "word": "be",
+      "start": 55.0,
+      "end": 55.14
+    },
+    {
+      "word": "split",
+      "start": 55.14,
+      "end": 55.26
+    },
+    {
+      "word": "into",
+      "start": 55.26,
+      "end": 55.44
+    },
+    {
+      "word": "its",
+      "start": 55.44,
+      "end": 55.62
+    },
+    {
+      "word": "own",
+      "start": 55.62,
+      "end": 55.78
+    },
+    {
+      "word": "table.",
+      "start": 55.78,
+      "end": 56.04
+    },
+    {
+      "word": "So",
+      "start": 56.36,
+      "end": 56.38
+    },
+    {
+      "word": "a",
+      "start": 56.38,
+      "end": 56.54
+    },
+    {
+      "word": "product",
+      "start": 56.54,
+      "end": 56.7
+    },
+    {
+      "word": "group",
+      "start": 56.7,
+      "end": 56.9
+    },
+    {
+      "word": "was",
+      "start": 56.9,
+      "end": 57.06
+    },
+    {
+      "word": "split",
+      "start": 57.06,
+      "end": 57.2
+    },
+    {
+      "word": "into",
+      "start": 57.2,
+      "end": 57.32
+    },
+    {
+      "word": "the",
+      "start": 57.32,
+      "end": 57.5
+    },
+    {
+      "word": "one",
+      "start": 57.5,
+      "end": 57.64
+    },
+    {
+      "word": "table.",
+      "start": 57.64,
+      "end": 57.92
+    },
+    {
+      "word": "To",
+      "start": 58.12,
+      "end": 58.18
+    },
+    {
+      "word": "link",
+      "start": 58.18,
+      "end": 58.28
+    },
+    {
+      "word": "this",
+      "start": 58.28,
+      "end": 58.44
+    },
+    {
+      "word": "table,",
+      "start": 58.44,
+      "end": 58.7
+    },
+    {
+      "word": "variant",
+      "start": 58.82,
+      "end": 59.02
+    },
+    {
+      "word": "group",
+      "start": 59.02,
+      "end": 59.18
+    },
+    {
+      "word": "table",
+      "start": 59.18,
+      "end": 59.36
+    },
+    {
+      "word": "was",
+      "start": 59.36,
+      "end": 59.56
+    },
+    {
+      "word": "created,",
+      "start": 59.56,
+      "end": 60.34
+    },
+    {
+      "word": "which",
+      "start": 60.78,
+      "end": 61.38
+    },
+    {
+      "word": "I",
+      "start": 61.38,
+      "end": 61.6
+    },
+    {
+      "word": "had",
+      "start": 61.6,
+      "end": 62.04
+    },
+    {
+      "word": "a",
+      "start": 62.04,
+      "end": 62.14
+    },
+    {
+      "word": "one",
+      "start": 62.14,
+      "end": 62.28
+    },
+    {
+      "word": "many",
+      "start": 62.28,
+      "end": 62.84
+    },
+    {
+      "word": "to",
+      "start": 62.84,
+      "end": 62.98
+    },
+    {
+      "word": "many",
+      "start": 62.98,
+      "end": 63.12
+    },
+    {
+      "word": "relationship",
+      "start": 63.12,
+      "end": 63.56
+    },
+    {
+      "word": "between",
+      "start": 63.56,
+      "end": 63.92
+    },
+    {
+      "word": "these",
+      "start": 63.92,
+      "end": 64.12
+    },
+    {
+      "word": "two",
+      "start": 64.12,
+      "end": 64.26
+    },
+    {
+      "word": "tables.",
+      "start": 64.26,
+      "end": 64.54
+    },
+    {
+      "word": "Next",
+      "start": 65.7,
+      "end": 66.06
+    },
+    {
+      "word": "order",
+      "start": 66.06,
+      "end": 66.36
+    },
+    {
+      "word": "item",
+      "start": 66.36,
+      "end": 66.56
+    },
+    {
+      "word": "table",
+      "start": 66.56,
+      "end": 66.72
+    },
+    {
+      "word": "was",
+      "start": 66.72,
+      "end": 66.9
+    },
+    {
+      "word": "normalized.",
+      "start": 66.9,
+      "end": 67.32
+    },
+    {
+      "word": "In",
+      "start": 67.78,
+      "end": 67.98
+    },
+    {
+      "word": "the",
+      "start": 67.98,
+      "end": 68.08
+    },
+    {
+      "word": "order",
+      "start": 68.08,
+      "end": 68.22
+    },
+    {
+      "word": "item",
+      "start": 68.22,
+      "end": 68.4
+    },
+    {
+      "word": "table,",
+      "start": 68.4,
+      "end": 68.74
+    },
+    {
+      "word": "the",
+      "start": 68.84,
+      "end": 68.94
+    },
+    {
+      "word": "table",
+      "start": 68.94,
+      "end": 69.12
+    },
+    {
+      "word": "was",
+      "start": 69.12,
+      "end": 69.3
+    },
+    {
+      "word": "already",
+      "start": 69.3,
+      "end": 69.58
+    },
+    {
+      "word": "in",
+      "start": 69.58,
+      "end": 69.72
+    },
+    {
+      "word": "2NF.",
+      "start": 69.72,
+      "end": 70.06
+    },
+    {
+      "word": "In",
+      "start": 70.14,
+      "end": 70.2
+    },
+    {
+      "word": "3NF,",
+      "start": 70.2,
+      "end": 70.68
+    },
+    {
+      "word": "the",
+      "start": 70.74,
+      "end": 70.86
+    },
+    {
+      "word": "line",
+      "start": 70.86,
+      "end": 71.02
+    },
+    {
+      "word": "item",
+      "start": 71.02,
+      "end": 71.2
+    },
+    {
+      "word": "total",
+      "start": 71.2,
+      "end": 71.4
+    },
+    {
+      "word": "was",
+      "start": 71.4,
+      "end": 71.7
+    },
+    {
+      "word": "acting",
+      "start": 71.7,
+      "end": 71.92
+    },
+    {
+      "word": "as",
+      "start": 71.92,
+      "end": 72.06
+    },
+    {
+      "word": "a",
+      "start": 72.06,
+      "end": 72.14
+    },
+    {
+      "word": "derived",
+      "start": 72.14,
+      "end": 72.3
+    },
+    {
+      "word": "attribute",
+      "start": 72.3,
+      "end": 72.78
+    },
+    {
+      "word": "as",
+      "start": 72.78,
+      "end": 73.36
+    },
+    {
+      "word": "it",
+      "start": 73.36,
+      "end": 73.46
+    },
+    {
+      "word": "can",
+      "start": 73.46,
+      "end": 73.6
+    },
+    {
+      "word": "be",
+      "start": 73.6,
+      "end": 73.74
+    },
+    {
+      "word": "calculated",
+      "start": 73.74,
+      "end": 74.1
+    },
+    {
+      "word": "by",
+      "start": 74.1,
+      "end": 74.34
+    },
+    {
+      "word": "using",
+      "start": 74.34,
+      "end": 74.54
+    },
+    {
+      "word": "quantity",
+      "start": 74.54,
+      "end": 74.9
+    },
+    {
+      "word": "and",
+      "start": 74.9,
+      "end": 75.1
+    },
+    {
+      "word": "the",
+      "start": 75.1,
+      "end": 75.16
+    },
+    {
+      "word": "unit",
+      "start": 75.16,
+      "end": 75.32
+    },
+    {
+      "word": "price.",
+      "start": 75.32,
+      "end": 75.58
+    },
+    {
+      "word": "So",
+      "start": 75.58,
+      "end": 76.02
+    },
+    {
+      "word": "this",
+      "start": 76.02,
+      "end": 76.64
+    },
+    {
+      "word": "column",
+      "start": 76.64,
+      "end": 77.1
+    },
+    {
+      "word": "was",
+      "start": 77.1,
+      "end": 77.38
+    },
+    {
+      "word": "removed",
+      "start": 77.38,
+      "end": 77.6
+    },
+    {
+      "word": "from",
+      "start": 77.6,
+      "end": 77.76
+    },
+    {
+      "word": "the",
+      "start": 77.76,
+      "end": 77.94
+    },
+    {
+      "word": "table",
+      "start": 77.94,
+      "end": 78.28
+    },
+    {
+      "word": "so",
+      "start": 78.28,
+      "end": 78.56
+    },
+    {
+      "word": "it",
+      "start": 78.56,
+      "end": 78.7
+    },
+    {
+      "word": "can",
+      "start": 78.7,
+      "end": 78.8
+    },
+    {
+      "word": "be",
+      "start": 78.8,
+      "end": 78.96
+    },
+    {
+      "word": "computed",
+      "start": 78.96,
+      "end": 79.44
+    },
+    {
+      "word": "later.",
+      "start": 79.44,
+      "end": 79.78
+    },
+    {
+      "word": "So",
+      "start": 80.22,
+      "end": 80.46
+    },
+    {
+      "word": "next",
+      "start": 80.46,
+      "end": 80.7
+    },
+    {
+      "word": "moving",
+      "start": 80.7,
+      "end": 80.94
+    },
+    {
+      "word": "into",
+      "start": 80.94,
+      "end": 81.14
+    },
+    {
+      "word": "the",
+      "start": 81.14,
+      "end": 81.24
+    },
+    {
+      "word": "create",
+      "start": 81.24,
+      "end": 81.42
+    },
+    {
+      "word": "order",
+      "start": 81.42,
+      "end": 81.7
+    },
+    {
+      "word": "item",
+      "start": 81.7,
+      "end": 82.04
+    },
+    {
+      "word": "stored",
+      "start": 82.04,
+      "end": 82.34
+    },
+    {
+      "word": "procedure.",
+      "start": 82.34,
+      "end": 82.76
+    },
+    {
+      "word": "Here",
+      "start": 83.02,
+      "end": 83.3
+    },
+    {
+      "word": "the",
+      "start": 83.3,
+      "end": 83.46
+    },
+    {
+      "word": "validation",
+      "start": 83.46,
+      "end": 83.68
+    },
+    {
+      "word": "checks",
+      "start": 83.68,
+      "end": 84.06
+    },
+    {
+      "word": "for",
+      "start": 84.06,
+      "end": 84.34
+    },
+    {
+      "word": "order",
+      "start": 84.34,
+      "end": 84.72
+    },
+    {
+      "word": "number",
+      "start": 84.72,
+      "end": 85.0
+    },
+    {
+      "word": "must",
+      "start": 85.0,
+      "end": 85.84
+    },
+    {
+      "word": "be",
+      "start": 85.84,
+      "end": 86.14
+    },
+    {
+      "word": "already",
+      "start": 86.14,
+      "end": 86.42
+    },
+    {
+      "word": "present",
+      "start": 86.42,
+      "end": 86.66
+    },
+    {
+      "word": "in",
+      "start": 86.66,
+      "end": 86.8
+    },
+    {
+      "word": "the",
+      "start": 86.8,
+      "end": 86.88
+    },
+    {
+      "word": "database.",
+      "start": 86.88,
+      "end": 87.18
+    },
+    {
+      "word": "Order",
+      "start": 87.52,
+      "end": 87.7
+    },
+    {
+      "word": "item",
+      "start": 87.7,
+      "end": 87.98
+    },
+    {
+      "word": "number",
+      "start": 87.98,
+      "end": 88.24
+    },
+    {
+      "word": "must",
+      "start": 88.24,
+      "end": 88.44
+    },
+    {
+      "word": "be",
+      "start": 88.44,
+      "end": 88.6
+    },
+    {
+      "word": "unique",
+      "start": 88.6,
+      "end": 88.88
+    },
+    {
+      "word": "and",
+      "start": 88.88,
+      "end": 89.74
+    },
+    {
+      "word": "product",
+      "start": 89.74,
+      "end": 90.26
+    },
+    {
+      "word": "code,",
+      "start": 90.26,
+      "end": 90.54
+    },
+    {
+      "word": "variant",
+      "start": 90.64,
+      "end": 90.78
+    },
+    {
+      "word": "code",
+      "start": 90.78,
+      "end": 91.06
+    },
+    {
+      "word": "and",
+      "start": 91.06,
+      "end": 91.2
+    },
+    {
+      "word": "the",
+      "start": 91.2,
+      "end": 91.3
+    },
+    {
+      "word": "unit",
+      "start": 91.3,
+      "end": 91.46
+    },
+    {
+      "word": "price",
+      "start": 91.46,
+      "end": 91.72
+    },
+    {
+      "word": "combination",
+      "start": 91.72,
+      "end": 92.04
+    },
+    {
+      "word": "must",
+      "start": 92.04,
+      "end": 92.38
+    },
+    {
+      "word": "already",
+      "start": 92.38,
+      "end": 92.68
+    },
+    {
+      "word": "exist.",
+      "start": 92.68,
+      "end": 93.08
+    },
+    {
+      "word": "So",
+      "start": 93.4,
+      "end": 93.7
+    },
+    {
+      "word": "if",
+      "start": 93.7,
+      "end": 93.94
+    },
+    {
+      "word": "I",
+      "start": 93.94,
+      "end": 94.06
+    },
+    {
+      "word": "just",
+      "start": 94.06,
+      "end": 94.26
+    },
+    {
+      "word": "try",
+      "start": 94.26,
+      "end": 94.48
+    },
+    {
+      "word": "to",
+      "start": 94.48,
+      "end": 94.64
+    },
+    {
+      "word": "give",
+      "start": 94.64,
+      "end": 94.84
+    },
+    {
+      "word": "quantity",
+      "start": 94.84,
+      "end": 95.86
+    },
+    {
+      "word": "invalid",
+      "start": 95.86,
+      "end": 96.52
+    },
+    {
+      "word": "number",
+      "start": 96.52,
+      "end": 97.02
+    },
+    {
+      "word": "when",
+      "start": 97.02,
+      "end": 97.84
+    },
+    {
+      "word": "I",
+      "start": 97.84,
+      "end": 98.0
+    },
+    {
+      "word": "try",
+      "start": 98.0,
+      "end": 98.22
+    },
+    {
+      "word": "to",
+      "start": 98.22,
+      "end": 99.12
+    },
+    {
+      "word": "run",
+      "start": 99.12,
+      "end": 100.1
+    },
+    {
+      "word": "this,",
+      "start": 100.1,
+      "end": 100.4
+    },
+    {
+      "word": "it",
+      "start": 100.66,
+      "end": 101.1
+    },
+    {
+      "word": "should",
+      "start": 101.1,
+      "end": 101.18
+    },
+    {
+      "word": "be",
+      "start": 101.18,
+      "end": 101.28
+    },
+    {
+      "word": "getting",
+      "start": 101.28,
+      "end": 101.52
+    },
+    {
+      "word": "failed.",
+      "start": 101.52,
+      "end": 101.88
+    },
+    {
+      "word": "Because",
+      "start": 102.78,
+      "end": 103.26
+    },
+    {
+      "word": "the",
+      "start": 103.26,
+      "end": 103.48
+    },
+    {
+      "word": "quantity",
+      "start": 103.48,
+      "end": 103.72
+    },
+    {
+      "word": "must",
+      "start": 103.72,
+      "end": 103.94
+    },
+    {
+      "word": "be",
+      "start": 103.94,
+      "end": 104.08
+    },
+    {
+      "word": "greater",
+      "start": 104.08,
+      "end": 104.4
+    },
+    {
+      "word": "than",
+      "start": 104.4,
+      "end": 104.56
+    },
+    {
+      "word": "zero.",
+      "start": 104.56,
+      "end": 104.78
+    },
+    {
+      "word": "So",
+      "start": 104.96,
+      "end": 105.02
+    },
+    {
+      "word": "this",
+      "start": 105.02,
+      "end": 105.18
+    },
+    {
+      "word": "is",
+      "start": 105.18,
+      "end": 105.28
+    },
+    {
+      "word": "one",
+      "start": 105.28,
+      "end": 105.42
+    },
+    {
+      "word": "of",
+      "start": 105.42,
+      "end": 105.54
+    },
+    {
+      "word": "the",
+      "start": 105.54,
+      "end": 105.72
+    },
+    {
+      "word": "invalid",
+      "start": 105.72,
+      "end": 106.3
+    },
+    {
+      "word": "quantity",
+      "start": 106.3,
+      "end": 106.7
+    },
+    {
+      "word": "number.",
+      "start": 106.7,
+      "end": 107.0
+    },
+    {
+      "word": "So",
+      "start": 107.42,
+      "end": 107.42
+    },
+    {
+      "word": "giving",
+      "start": 107.42,
+      "end": 108.14
+    },
+    {
+      "word": "a",
+      "start": 108.14,
+      "end": 108.34
+    },
+    {
+      "word": "positive",
+      "start": 108.34,
+      "end": 108.62
+    },
+    {
+      "word": "quantity",
+      "start": 108.62,
+      "end": 109.0
+    },
+    {
+      "word": "number",
+      "start": 109.0,
+      "end": 109.78
+    },
+    {
+      "word": "should",
+      "start": 109.78,
+      "end": 110.28
+    },
+    {
+      "word": "make",
+      "start": 110.28,
+      "end": 110.48
+    },
+    {
+      "word": "this",
+      "start": 110.48,
+      "end": 110.7
+    },
+    {
+      "word": "transaction",
+      "start": 110.7,
+      "end": 111.2
+    },
+    {
+      "word": "successful.",
+      "start": 111.2,
+      "end": 111.92
+    },
+    {
+      "word": "So",
+      "start": 112.14,
+      "end": 112.24
+    },
+    {
+      "word": "running",
+      "start": 112.24,
+      "end": 113.16
+    },
+    {
+      "word": "this,",
+      "start": 113.16,
+      "end": 113.52
+    },
+    {
+      "word": "the",
+      "start": 114.04,
+      "end": 116.58
+    },
+    {
+      "word": "transaction",
+      "start": 116.58,
+      "end": 116.86
+    },
+    {
+      "word": "is",
+      "start": 116.86,
+      "end": 117.16
+    },
+    {
+      "word": "successful.",
+      "start": 117.16,
+      "end": 117.64
+    },
+    {
+      "word": "So",
+      "start": 117.98,
+      "end": 118.04
+    },
+    {
+      "word": "these",
+      "start": 118.04,
+      "end": 118.32
+    },
+    {
+      "word": "are",
+      "start": 118.32,
+      "end": 118.48
+    },
+    {
+      "word": "the",
+      "start": 118.48,
+      "end": 118.54
+    },
+    {
+      "word": "validation",
+      "start": 118.54,
+      "end": 118.86
+    },
+    {
+      "word": "checks",
+      "start": 118.86,
+      "end": 119.2
+    },
+    {
+      "word": "we",
+      "start": 119.2,
+      "end": 119.5
+    },
+    {
+      "word": "have",
+      "start": 119.5,
+      "end": 119.66
+    },
+    {
+      "word": "taken.",
+      "start": 119.66,
+      "end": 120.14
+    },
+    {
+      "word": "And",
+      "start": 120.28,
+      "end": 120.5
+    },
+    {
+      "word": "if",
+      "start": 120.5,
+      "end": 120.64
+    },
+    {
+      "word": "I",
+      "start": 120.64,
+      "end": 120.74
+    },
+    {
+      "word": "try",
+      "start": 120.74,
+      "end": 120.88
+    },
+    {
+      "word": "to",
+      "start": 120.88,
+      "end": 121.12
+    },
+    {
+      "word": "run",
+      "start": 121.12,
+      "end": 121.4
+    },
+    {
+      "word": "this",
+      "start": 121.4,
+      "end": 121.58
+    },
+    {
+      "word": "again,",
+      "start": 121.58,
+      "end": 121.82
+    },
+    {
+      "word": "the",
+      "start": 122.02,
+      "end": 122.1
+    },
+    {
+      "word": "transaction",
+      "start": 122.1,
+      "end": 122.4
+    },
+    {
+      "word": "will",
+      "start": 122.4,
+      "end": 123.46
+    },
+    {
+      "word": "be",
+      "start": 123.46,
+      "end": 123.62
+    },
+    {
+      "word": "rolled",
+      "start": 123.62,
+      "end": 123.82
+    },
+    {
+      "word": "back.",
+      "start": 123.82,
+      "end": 124.04
+    },
+    {
+      "word": "So",
+      "start": 124.34,
+      "end": 124.34
+    },
+    {
+      "word": "order",
+      "start": 124.34,
+      "end": 125.18
+    },
+    {
+      "word": "number",
+      "start": 125.18,
+      "end": 125.38
+    },
+    {
+      "word": "because",
+      "start": 125.38,
+      "end": 125.66
+    },
+    {
+      "word": "order",
+      "start": 125.66,
+      "end": 125.92
+    },
+    {
+      "word": "number,",
+      "start": 125.92,
+      "end": 126.16
+    },
+    {
+      "word": "item",
+      "start": 126.4,
+      "end": 126.98
+    },
+    {
+      "word": "number",
+      "start": 126.98,
+      "end": 127.24
+    },
+    {
+      "word": "already",
+      "start": 127.24,
+      "end": 127.58
+    },
+    {
+      "word": "exist",
+      "start": 127.58,
+      "end": 127.88
+    },
+    {
+      "word": "for",
+      "start": 127.88,
+      "end": 128.4
+    },
+    {
+      "word": "this",
+      "start": 128.4,
+      "end": 128.56
+    },
+    {
+      "word": "order.",
+      "start": 128.56,
+      "end": 128.84
+    },
+    {
+      "word": "So",
+      "start": 128.84,
+      "end": 129.66
+    },
+    {
+      "word": "this",
+      "start": 129.66,
+      "end": 130.28
+    },
+    {
+      "word": "wraps",
+      "start": 130.28,
+      "end": 130.52
+    },
+    {
+      "word": "the",
+      "start": 130.52,
+      "end": 130.72
+    },
+    {
+      "word": "delivery",
+      "start": 130.72,
+      "end": 130.94
+    },
+    {
+      "word": "one.",
+      "start": 130.94,
+      "end": 131.76
+    },
+    {
+      "word": "We",
+      "start": 132.76,
+      "end": 133.48
+    },
+    {
+      "word": "will",
+      "start": 133.48,
+      "end": 133.68
+    },
+    {
+      "word": "now",
+      "start": 133.68,
+      "end": 133.88
+    },
+    {
+      "word": "briefly",
+      "start": 133.88,
+      "end": 134.22
+    },
+    {
+      "word": "explain",
+      "start": 134.22,
+      "end": 134.82
+    },
+    {
+      "word": "D2",
+      "start": 134.82,
+      "end": 135.4
+    },
+    {
+      "word": "which",
+      "start": 135.4,
+      "end": 135.68
+    },
+    {
+      "word": "is",
+      "start": 135.68,
+      "end": 135.88
+    },
+    {
+      "word": "our",
+      "start": 135.88,
+      "end": 136.22
+    },
+    {
+      "word": "BI",
+      "start": 136.22,
+      "end": 136.58
+    },
+    {
+      "word": "solution",
+      "start": 136.58,
+      "end": 137.04
+    },
+    {
+      "word": "developed",
+      "start": 137.04,
+      "end": 137.58
+    },
+    {
+      "word": "using",
+      "start": 137.58,
+      "end": 138.08
+    },
+    {
+      "word": "SQL",
+      "start": 138.08,
+      "end": 138.48
+    },
+    {
+      "word": "server",
+      "start": 138.48,
+      "end": 138.96
+    },
+    {
+      "word": "analysis",
+      "start": 138.96,
+      "end": 139.54
+    },
+    {
+      "word": "services.",
+      "start": 139.54,
+      "end": 140.02
+    },
+    {
+      "word": "We",
+      "start": 140.6,
+      "end": 140.78
+    },
+    {
+      "word": "started",
+      "start": 140.78,
+      "end": 141.04
+    },
+    {
+      "word": "by",
+      "start": 141.04,
+      "end": 141.32
+    },
+    {
+      "word": "restoring",
+      "start": 141.32,
+      "end": 141.66
+    },
+    {
+      "word": "the",
+      "start": 141.66,
+      "end": 141.96
+    },
+    {
+      "word": "final",
+      "start": 141.96,
+      "end": 142.24
+    },
+    {
+      "word": "database",
+      "start": 142.24,
+      "end": 142.66
+    },
+    {
+      "word": "backup",
+      "start": 142.66,
+      "end": 143.02
+    },
+    {
+      "word": "produced",
+      "start": 143.02,
+      "end": 143.48
+    },
+    {
+      "word": "in",
+      "start": 143.48,
+      "end": 144.04
+    },
+    {
+      "word": "D1",
+      "start": 144.04,
+      "end": 144.48
+    },
+    {
+      "word": "which",
+      "start": 144.48,
+      "end": 145.04
+    },
+    {
+      "word": "contains",
+      "start": 145.04,
+      "end": 145.44
+    },
+    {
+      "word": "the",
+      "start": 145.44,
+      "end": 145.68
+    },
+    {
+      "word": "fully",
+      "start": 145.68,
+      "end": 145.9
+    },
+    {
+      "word": "normalized",
+      "start": 145.9,
+      "end": 146.44
+    },
+    {
+      "word": "tables",
+      "start": 146.44,
+      "end": 147.02
+    },
+    {
+      "word": "and",
+      "start": 147.02,
+      "end": 147.42
+    },
+    {
+      "word": "validated",
+      "start": 147.42,
+      "end": 147.92
+    },
+    {
+      "word": "transactional",
+      "start": 147.92,
+      "end": 148.64
+    },
+    {
+      "word": "data.",
+      "start": 148.64,
+      "end": 148.88
+    },
+    {
+      "word": "After",
+      "start": 149.44,
+      "end": 149.76
+    },
+    {
+      "word": "restoring",
+      "start": 149.76,
+      "end": 150.24
+    },
+    {
+      "word": "the",
+      "start": 150.24,
+      "end": 150.42
+    },
+    {
+      "word": "database,",
+      "start": 150.42,
+      "end": 150.78
+    },
+    {
+      "word": "we",
+      "start": 150.92,
+      "end": 151.06
+    },
+    {
+      "word": "created",
+      "start": 151.06,
+      "end": 151.44
+    },
+    {
+      "word": "a",
+      "start": 151.44,
+      "end": 151.64
+    },
+    {
+      "word": "data",
+      "start": 151.64,
+      "end": 151.84
+    },
+    {
+      "word": "source",
+      "start": 151.84,
+      "end": 152.08
+    },
+    {
+      "word": "view",
+      "start": 152.08,
+      "end": 152.42
+    },
+    {
+      "word": "which",
+      "start": 152.42,
+      "end": 152.98
+    },
+    {
+      "word": "links",
+      "start": 152.98,
+      "end": 153.22
+    },
+    {
+      "word": "the",
+      "start": 153.22,
+      "end": 153.48
+    },
+    {
+      "word": "tables",
+      "start": 153.48,
+      "end": 153.82
+    },
+    {
+      "word": "as",
+      "start": 153.82,
+      "end": 154.28
+    },
+    {
+      "word": "per",
+      "start": 154.28,
+      "end": 154.5
+    },
+    {
+      "word": "the",
+      "start": 154.5,
+      "end": 154.6
+    },
+    {
+      "word": "referencing",
+      "start": 154.6,
+      "end": 155.02
+    },
+    {
+      "word": "of",
+      "start": 155.02,
+      "end": 155.28
+    },
+    {
+      "word": "foreign",
+      "start": 155.28,
+      "end": 155.54
+    },
+    {
+      "word": "keys.",
+      "start": 155.54,
+      "end": 155.84
+    },
+    {
+      "word": "We",
+      "start": 156.73999999999998,
+      "end": 157.42
+    },
+    {
+      "word": "then",
+      "start": 157.42,
+      "end": 157.68
+    },
+    {
+      "word": "created",
+      "start": 157.68,
+      "end": 158.1
+    },
+    {
+      "word": "several",
+      "start": 158.1,
+      "end": 158.6
+    },
+    {
+      "word": "dimensions",
+      "start": 158.6,
+      "end": 159.16
+    },
+    {
+      "word": "to",
+      "start": 159.16,
+      "end": 159.54
+    },
+    {
+      "word": "support",
+      "start": 159.54,
+      "end": 159.86
+    },
+    {
+      "word": "business",
+      "start": 159.86,
+      "end": 160.2
+    },
+    {
+      "word": "analysis.",
+      "start": 160.2,
+      "end": 160.82
+    },
+    {
+      "word": "Tables",
+      "start": 161.28,
+      "end": 161.54
+    },
+    {
+      "word": "containing",
+      "start": 161.54,
+      "end": 162.04
+    },
+    {
+      "word": "descriptive",
+      "start": 162.04,
+      "end": 162.42
+    },
+    {
+      "word": "attributes",
+      "start": 162.42,
+      "end": 163.24
+    },
+    {
+      "word": "were",
+      "start": 163.24,
+      "end": 163.52
+    },
+    {
+      "word": "modeled",
+      "start": 163.52,
+      "end": 163.8
+    },
+    {
+      "word": "as",
+      "start": 163.8,
+      "end": 164.08
+    },
+    {
+      "word": "dimensions",
+      "start": 164.08,
+      "end": 164.6
+    },
+    {
+      "word": "while",
+      "start": 164.6,
+      "end": 165.22
+    },
+    {
+      "word": "transactional",
+      "start": 165.22,
+      "end": 165.82
+    },
+    {
+      "word": "tables",
+      "start": 165.82,
+      "end": 166.12
+    },
+    {
+      "word": "containing",
+      "start": 166.12,
+      "end": 166.66
+    },
+    {
+      "word": "measurable",
+      "start": 166.66,
+      "end": 167.06
+    },
+    {
+      "word": "business",
+      "start": 167.06,
+      "end": 167.52
+    },
+    {
+      "word": "values",
+      "start": 167.52,
+      "end": 167.98
+    },
+    {
+      "word": "were",
+      "start": 167.98,
+      "end": 168.24
+    },
+    {
+      "word": "modeled",
+      "start": 168.24,
+      "end": 168.48
+    },
+    {
+      "word": "as",
+      "start": 168.48,
+      "end": 168.76
+    },
+    {
+      "word": "fact",
+      "start": 168.76,
+      "end": 169.0
+    },
+    {
+      "word": "tables.",
+      "start": 169.0,
+      "end": 169.34
+    },
+    {
+      "word": "For",
+      "start": 169.92,
+      "end": 170.08
+    },
+    {
+      "word": "example,",
+      "start": 170.08,
+      "end": 170.54
+    },
+    {
+      "word": "the",
+      "start": 171.12,
+      "end": 171.24
+    },
+    {
+      "word": "date",
+      "start": 171.24,
+      "end": 171.52
+    },
+    {
+      "word": "dimension",
+      "start": 171.52,
+      "end": 171.92
+    },
+    {
+      "word": "was",
+      "start": 171.92,
+      "end": 172.36
+    },
+    {
+      "word": "designed",
+      "start": 172.36,
+      "end": 172.8
+    },
+    {
+      "word": "with",
+      "start": 172.8,
+      "end": 173.04
+    },
+    {
+      "word": "a",
+      "start": 173.04,
+      "end": 173.2
+    },
+    {
+      "word": "natural",
+      "start": 173.2,
+      "end": 173.48
+    },
+    {
+      "word": "hierarchy",
+      "start": 173.48,
+      "end": 174.16
+    },
+    {
+      "word": "where",
+      "start": 174.16,
+      "end": 174.78
+    },
+    {
+      "word": "a",
+      "start": 174.78,
+      "end": 174.92
+    },
+    {
+      "word": "day",
+      "start": 174.92,
+      "end": 175.02
+    },
+    {
+      "word": "rolls",
+      "start": 175.02,
+      "end": 175.26
+    },
+    {
+      "word": "into",
+      "start": 175.26,
+      "end": 175.52
+    },
+    {
+      "word": "month,",
+      "start": 175.52,
+      "end": 175.9
+    },
+    {
+      "word": "month",
+      "start": 176.12,
+      "end": 176.36
+    },
+    {
+      "word": "rolls",
+      "start": 176.36,
+      "end": 176.62
+    },
+    {
+      "word": "into",
+      "start": 176.62,
+      "end": 176.88
+    },
+    {
+      "word": "quarter",
+      "start": 176.88,
+      "end": 177.24
+    },
+    {
+      "word": "and",
+      "start": 177.24,
+      "end": 177.78
+    },
+    {
+      "word": "quarter",
+      "start": 177.78,
+      "end": 178.1
+    },
+    {
+      "word": "rolls",
+      "start": 178.1,
+      "end": 178.74
+    },
+    {
+      "word": "into",
+      "start": 178.74,
+      "end": 179.04
+    },
+    {
+      "word": "the",
+      "start": 179.04,
+      "end": 179.22
+    },
+    {
+      "word": "year.",
+      "start": 179.22,
+      "end": 179.48
+    },
+    {
+      "word": "The",
+      "start": 180.72,
+      "end": 181.44
+    },
+    {
+      "word": "fact",
+      "start": 181.44,
+      "end": 181.74
+    },
+    {
+      "word": "order",
+      "start": 181.74,
+      "end": 182.04
+    },
+    {
+      "word": "table",
+      "start": 182.04,
+      "end": 182.46
+    },
+    {
+      "word": "represents",
+      "start": 182.46,
+      "end": 182.98
+    },
+    {
+      "word": "transactional",
+      "start": 182.98,
+      "end": 183.92
+    },
+    {
+      "word": "order",
+      "start": 183.92,
+      "end": 184.18
+    },
+    {
+      "word": "data",
+      "start": 184.18,
+      "end": 184.6
+    },
+    {
+      "word": "at",
+      "start": 184.6,
+      "end": 185.02
+    },
+    {
+      "word": "the",
+      "start": 185.02,
+      "end": 185.18
+    },
+    {
+      "word": "product",
+      "start": 185.18,
+      "end": 185.54
+    },
+    {
+      "word": "variant",
+      "start": 185.54,
+      "end": 185.92
+    },
+    {
+      "word": "level",
+      "start": 185.92,
+      "end": 186.28
+    },
+    {
+      "word": "and",
+      "start": 186.28,
+      "end": 186.64
+    },
+    {
+      "word": "contains",
+      "start": 186.64,
+      "end": 187.1
+    },
+    {
+      "word": "measurable",
+      "start": 187.1,
+      "end": 187.62
+    },
+    {
+      "word": "values",
+      "start": 187.62,
+      "end": 188.26
+    },
+    {
+      "word": "such",
+      "start": 188.26,
+      "end": 188.58
+    },
+    {
+      "word": "as",
+      "start": 188.58,
+      "end": 188.74
+    },
+    {
+      "word": "quantity",
+      "start": 188.74,
+      "end": 189.1
+    },
+    {
+      "word": "and",
+      "start": 189.1,
+      "end": 189.56
+    },
+    {
+      "word": "sales",
+      "start": 189.56,
+      "end": 189.84
+    },
+    {
+      "word": "amount",
+      "start": 189.84,
+      "end": 190.22
+    },
+    {
+      "word": "along",
+      "start": 190.22,
+      "end": 190.88
+    },
+    {
+      "word": "with",
+      "start": 190.88,
+      "end": 191.18
+    },
+    {
+      "word": "foreign",
+      "start": 191.18,
+      "end": 191.48
+    },
+    {
+      "word": "keys",
+      "start": 191.48,
+      "end": 191.82
+    },
+    {
+      "word": "linking",
+      "start": 191.82,
+      "end": 192.28
+    },
+    {
+      "word": "to",
+      "start": 192.28,
+      "end": 192.56
+    },
+    {
+      "word": "the",
+      "start": 192.56,
+      "end": 192.68
+    },
+    {
+      "word": "relevant",
+      "start": 192.68,
+      "end": 192.96
+    },
+    {
+      "word": "dimensions.",
+      "start": 192.96,
+      "end": 193.48
+    },
+    {
+      "word": "Using",
+      "start": 193.98,
+      "end": 194.4
+    },
+    {
+      "word": "this",
+      "start": 194.4,
+      "end": 194.74
+    },
+    {
+      "word": "fact",
+      "start": 194.74,
+      "end": 195.0
+    },
+    {
+      "word": "table,",
+      "start": 195.0,
+      "end": 195.38
+    },
+    {
+      "word": "we",
+      "start": 195.44,
+      "end": 195.68
+    },
+    {
+      "word": "built",
+      "start": 195.68,
+      "end": 195.98
+    },
+    {
+      "word": "the",
+      "start": 195.98,
+      "end": 196.18
+    },
+    {
+      "word": "queue",
+      "start": 196.18,
+      "end": 196.38
+    },
+    {
+      "word": "following",
+      "start": 196.38,
+      "end": 196.88
+    },
+    {
+      "word": "a",
+      "start": 196.88,
+      "end": 197.12
+    },
+    {
+      "word": "star",
+      "start": 197.12,
+      "end": 197.28
+    },
+    {
+      "word": "schema",
+      "start": 197.28,
+      "end": 197.54
+    },
+    {
+      "word": "design",
+      "start": 197.54,
+      "end": 198.1
+    },
+    {
+      "word": "which",
+      "start": 198.1,
+      "end": 198.52
+    },
+    {
+      "word": "supports",
+      "start": 198.52,
+      "end": 198.94
+    },
+    {
+      "word": "consistent",
+      "start": 198.94,
+      "end": 199.5
+    },
+    {
+      "word": "aggregation",
+      "start": 199.5,
+      "end": 200.22
+    },
+    {
+      "word": "and",
+      "start": 200.22,
+      "end": 200.58
+    },
+    {
+      "word": "helps",
+      "start": 200.58,
+      "end": 200.88
+    },
+    {
+      "word": "avoid",
+      "start": 200.88,
+      "end": 201.28
+    },
+    {
+      "word": "double",
+      "start": 201.28,
+      "end": 201.62
+    },
+    {
+      "word": "counting.",
+      "start": 201.62,
+      "end": 201.98
+    },
+    {
+      "word": "Overall,",
+      "start": 203.0,
+      "end": 203.68
+    },
+    {
+      "word": "deliverable",
+      "start": 203.92,
+      "end": 204.42
+    },
+    {
+      "word": "two",
+      "start": 204.42,
+      "end": 204.58
+    },
+    {
+      "word": "presence",
+      "start": 204.58,
+      "end": 204.9
+    },
+    {
+      "word": "are",
+      "start": 204.9,
+      "end": 205.18
+    },
+    {
+      "word": "fully",
+      "start": 205.18,
+      "end": 205.4
+    },
+    {
+      "word": "validated",
+      "start": 205.4,
+      "end": 205.92
+    },
+    {
+      "word": "proof",
+      "start": 205.92,
+      "end": 206.38
+    },
+    {
+      "word": "of",
+      "start": 206.38,
+      "end": 206.6
+    },
+    {
+      "word": "concept,",
+      "start": 206.6,
+      "end": 207.14
+    },
+    {
+      "word": "BI",
+      "start": 207.46,
+      "end": 207.78
+    },
+    {
+      "word": "solution",
+      "start": 207.78,
+      "end": 208.28
+    },
+    {
+      "word": "that",
+      "start": 208.28,
+      "end": 208.58
+    },
+    {
+      "word": "meets",
+      "start": 208.58,
+      "end": 208.8
+    },
+    {
+      "word": "all",
+      "start": 208.8,
+      "end": 209.2
+    },
+    {
+      "word": "the",
+      "start": 209.2,
+      "end": 209.36
+    },
+    {
+      "word": "assignment",
+      "start": 209.36,
+      "end": 209.7
+    },
+    {
+      "word": "requirements",
+      "start": 209.7,
+      "end": 210.4
+    },
+    {
+      "word": "and",
+      "start": 210.4,
+      "end": 211.02
+    },
+    {
+      "word": "accurately",
+      "start": 211.02,
+      "end": 211.32
+    },
+    {
+      "word": "reflects",
+      "start": 211.32,
+      "end": 211.82
+    },
+    {
+      "word": "the",
+      "start": 211.82,
+      "end": 212.08
+    },
+    {
+      "word": "underlying",
+      "start": 212.08,
+      "end": 212.62
+    },
+    {
+      "word": "data.",
+      "start": 212.62,
+      "end": 213.36
+    }
+  ],
+  "segments": [
+    {
+      "start": 1.0600000000000023,
+      "end": 4.9,
+      "text": "Welcome to the video demonstration of the database systems coursework from group number 3."
+    },
+    {
+      "start": 5.24,
+      "end": 9.56,
+      "text": "In deliverable 1.1, we normalize the customer city product and order item tables to 3 and F."
+    },
+    {
+      "start": 10.08,
+      "end": 12.36,
+      "text": "Originally, the primary key of the customer city table was ID."
+    },
+    {
+      "start": 12.96,
+      "end": 15.74,
+      "text": "But while unlicing the order item table, there was no relationship defined."
+    },
+    {
+      "start": 16.08,
+      "end": 19.7,
+      "text": "But we found that ID in customer city and the customer city ID in the order item table matched."
+    },
+    {
+      "start": 20.14,
+      "end": 23.3,
+      "text": "So the column was renamed to customer city ID to clearly establish the relationship."
+    },
+    {
+      "start": 23.720000000000002,
+      "end": 29.6,
+      "text": "In the customer city table, the transitive dependency existed between the county, region, country and the city."
+    },
+    {
+      "start": 30.1,
+      "end": 33.62,
+      "text": "So this was resolved by splitting the table into customer 3 and F on city 3 and F."
+    },
+    {
+      "start": 34.24,
+      "end": 40.06,
+      "text": "With the city ID acting as a surrogate key and later it was referenced by the foreign key between the customer 3 and F on city 3 and F."
+    },
+    {
+      "start": 41.34,
+      "end": 44.72,
+      "text": "In the product table, the composite key caused partial dependencies."
+    },
+    {
+      "start": 45.06,
+      "end": 48.36,
+      "text": "So the table was split into product group, variant group, product 3 and F on variant 3 and F."
+    },
+    {
+      "start": 48.36,
+      "end": 54.66,
+      "text": "Here the important design aspect is product group was not dependent on variant code as it violates the 2NF."
+    },
+    {
+      "start": 54.74,
+      "end": 56.04,
+      "text": "So it must be split into its own table."
+    },
+    {
+      "start": 56.36,
+      "end": 57.92,
+      "text": "So a product group was split into the one table."
+    },
+    {
+      "start": 58.12,
+      "end": 64.54,
+      "text": "To link this table, variant group table was created, which I had a one many to many relationship between these two tables."
+    },
+    {
+      "start": 65.7,
+      "end": 67.32,
+      "text": "Next order item table was normalized."
+    },
+    {
+      "start": 67.78,
+      "end": 70.06,
+      "text": "In the order item table, the table was already in 2NF."
+    },
+    {
+      "start": 70.14,
+      "end": 75.58,
+      "text": "In 3NF, the line item total was acting as a derived attribute as it can be calculated by using quantity and the unit price."
+    },
+    {
+      "start": 75.58,
+      "end": 79.78,
+      "text": "So this column was removed from the table so it can be computed later."
+    },
+    {
+      "start": 80.22,
+      "end": 82.76,
+      "text": "So next moving into the create order item stored procedure."
+    },
+    {
+      "start": 83.02,
+      "end": 87.18,
+      "text": "Here the validation checks for order number must be already present in the database."
+    },
+    {
+      "start": 87.52,
+      "end": 93.08,
+      "text": "Order item number must be unique and product code, variant code and the unit price combination must already exist."
+    },
+    {
+      "start": 93.4,
+      "end": 101.88,
+      "text": "So if I just try to give quantity invalid number when I try to run this, it should be getting failed."
+    },
+    {
+      "start": 102.78,
+      "end": 104.78,
+      "text": "Because the quantity must be greater than zero."
+    },
+    {
+      "start": 104.96,
+      "end": 107.0,
+      "text": "So this is one of the invalid quantity number."
+    },
+    {
+      "start": 107.42,
+      "end": 111.92,
+      "text": "So giving a positive quantity number should make this transaction successful."
+    },
+    {
+      "start": 112.14,
+      "end": 117.64,
+      "text": "So running this, the transaction is successful."
+    },
+    {
+      "start": 117.98,
+      "end": 120.14,
+      "text": "So these are the validation checks we have taken."
+    },
+    {
+      "start": 120.28,
+      "end": 124.04,
+      "text": "And if I try to run this again, the transaction will be rolled back."
+    },
+    {
+      "start": 124.34,
+      "end": 128.84,
+      "text": "So order number because order number, item number already exist for this order."
+    },
+    {
+      "start": 128.84,
+      "end": 131.76,
+      "text": "So this wraps the delivery one."
+    },
+    {
+      "start": 132.76,
+      "end": 140.02,
+      "text": "We will now briefly explain D2 which is our BI solution developed using SQL server analysis services."
+    },
+    {
+      "start": 140.6,
+      "end": 148.88,
+      "text": "We started by restoring the final database backup produced in D1 which contains the fully normalized tables and validated transactional data."
+    },
+    {
+      "start": 149.44,
+      "end": 155.84,
+      "text": "After restoring the database, we created a data source view which links the tables as per the referencing of foreign keys."
+    },
+    {
+      "start": 156.73999999999998,
+      "end": 160.82,
+      "text": "We then created several dimensions to support business analysis."
+    },
+    {
+      "start": 161.28,
+      "end": 169.34,
+      "text": "Tables containing descriptive attributes were modeled as dimensions while transactional tables containing measurable business values were modeled as fact tables."
+    },
+    {
+      "start": 169.92,
+      "end": 179.48,
+      "text": "For example, the date dimension was designed with a natural hierarchy where a day rolls into month, month rolls into quarter and quarter rolls into the year."
+    },
+    {
+      "start": 180.72,
+      "end": 193.48,
+      "text": "The fact order table represents transactional order data at the product variant level and contains measurable values such as quantity and sales amount along with foreign keys linking to the relevant dimensions."
+    },
+    {
+      "start": 193.98,
+      "end": 201.98,
+      "text": "Using this fact table, we built the queue following a star schema design which supports consistent aggregation and helps avoid double counting."
+    },
+    {
+      "start": 203.0,
+      "end": 213.36,
+      "text": "Overall, deliverable two presence are fully validated proof of concept, BI solution that meets all the assignment requirements and accurately reflects the underlying data."
+    }
+  ]
+}

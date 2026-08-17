@@ -1,0 +1,44 @@
+{
+  "a4005d199ae3b50f": {
+    "boundary_check_passed": true,
+    "clip_id": "a4005d199ae3b50f",
+    "created_at": 1786974920.2640436,
+    "end": 4.9,
+    "output_path": "clips\\demo_clip\\welcome_and_demonstration_of_the_coursework_a4005d19.mp4",
+    "output_sha256": "2e4618b2828e561a9ff843bb619f0065f8bed43157fa33e5a477d324701a5605",
+    "snapped_end": 4.7072495,
+    "snapped_start": 0.8218955,
+    "start": 1.0600000000000023,
+    "topic": "welcome and demonstration of the coursework",
+    "video": "videos\\demo_clip.mp4",
+    "video_hash": "a985ddc064361730316f630c3c12603a5a64a53d79bcc73a5a371b6938659878"
+  },
+  "c49142460abdb357": {
+    "boundary_check_passed": false,
+    "clip_id": "c49142460abdb357",
+    "created_at": 1786974933.815511,
+    "end": 155.84,
+    "output_path": "clips\\demo_clip\\deliverable_1_database_normalisation_and_stored_procedure_c4914246.mp4",
+    "output_sha256": "42659b079502308ab1f95eb70dd5a47d816bd75fe4b7df7d41123254398e0171",
+    "snapped_end": 155.2860415,
+    "snapped_start": 5.146677,
+    "start": 5.24,
+    "topic": "deliverable 1 database normalisation and stored procedure",
+    "video": "videos\\demo_clip.mp4",
+    "video_hash": "a985ddc064361730316f630c3c12603a5a64a53d79bcc73a5a371b6938659878"
+  },
+  "fea0a28e8e134d00": {
+    "boundary_check_passed": true,
+    "clip_id": "fea0a28e8e134d00",
+    "created_at": 1786974939.2125516,
+    "end": 213.36,
+    "output_path": "clips\\demo_clip\\deliverable_2_business_intelligence_solution_using_ssas_fea0a28e.mp4",
+    "output_sha256": "8bd992193225242b73dad007ea10d2814c19a40c4d233745c5e7163b9792e8ff",
+    "snapped_end": 213.3740415,
+    "snapped_start": 156.556583,
+    "start": 156.73999999999998,
+    "topic": "deliverable 2 business intelligence solution using SSAS",
+    "video": "videos\\demo_clip.mp4",
+    "video_hash": "a985ddc064361730316f630c3c12603a5a64a53d79bcc73a5a371b6938659878"
+  }
+}
